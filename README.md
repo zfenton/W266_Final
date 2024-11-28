@@ -1,3 +1,3 @@
-<h3>DATASCI266 - Natural Language Processing</h3>
-<em></em>Final Project - Section 002</em><br />
+### DATASCI266 - Natural Language Processing
+**Final Project - Section 002**
 Alec Naidoo, Zachary Fenton
