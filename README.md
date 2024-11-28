@@ -1,2 +1,5 @@
-# W266_Final
-DataSci 266 - Natural Language Processing final group project
+###DATASCI266 - Natural Language Processing
+Final Project<br />
+Alec Naidoo, Zachary Fenton
+
+Section 002
